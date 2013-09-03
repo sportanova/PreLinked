@@ -1,7 +1,8 @@
 This was a project I worked on with a fiew friends over the course of two weeks. My main responsibilities were LinkedIn login with oAuth, the jobs search filter, and unit testing critical parts of the app.
-Filter Model Code: https://github.com/sportanova/PreLinked/blob/master/app/scripts/models/searchFilter.js
-Filter View Code: https://github.com/sportanova/PreLinked/blob/master/app/scripts/views/searchFilter.js
-LinkedIn Login Code: https://github.com/sportanova/PreLinked/blob/master/backend/controllers/passport.js
+
+- Filter Model Code: https://github.com/sportanova/PreLinked/blob/master/app/scripts/models/searchFilter.js
+- Filter View Code: https://github.com/sportanova/PreLinked/blob/master/app/scripts/views/searchFilter.js
+- LinkedIn Login Code: https://github.com/sportanova/PreLinked/blob/master/backend/controllers/passport.js
 
 PreLinked
 =========
